@@ -11,6 +11,9 @@ This is a simply example how to use an Arduino UNO as input for sensors and send
 ![sensor arduino programm klein](https://user-images.githubusercontent.com/36192933/36355171-e5e243e8-14df-11e8-834a-4d6222b45823.jpg)
 
 ### The back-end from Node-RED Program:
+You can import “node-red backup.txt “ into you Node-RED Back-End.
+
+[How to import this file...](https://youtu.be/9e7GNxllPXQ?list=PL-LuHXHssBEOzzXcIaxrCcYv37_izzzAc)
 
 ![nodered back](https://user-images.githubusercontent.com/36192933/36355179-f1b5beb6-14df-11e8-9bb1-82c322ce03ee.jpg)
 
