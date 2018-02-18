@@ -3,4 +3,5 @@ This is a simply example how to use an Arduino UNO as input for sensors and send
 
 ### The Arduino UNO with DHT11 temperature and humidity sensor and two analogue inputs from a joystick
 
-![sensor arduino programm](https://user-images.githubusercontent.com/36192933/36355158-b28f56ac-14df-11e8-836b-66519a6978a5.jpg)
+
+![arduino](https://user-images.githubusercontent.com/36192933/36355272-02f57bca-14e1-11e8-83c7-bccf4cbbf8b0.jpg)
