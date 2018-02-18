@@ -1,5 +1,5 @@
 # Arduino - Raspberry - Node-RED
-This is a simply example how to use an Arduino UNO as input for sensors and send it via serial interface do the Raspberry. Node-RED will then show the resultant.
+This is a simply example how to use an Arduino UNO as input for sensors and send it via serial interface do the Raspberry. Node-RED will then show the resultant from the different sensors.
 
 ### The Arduino UNO with DHT11 temperature and humidity sensor and two analogue inputs from a joystick:
 
